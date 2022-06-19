@@ -6,4 +6,5 @@ import (
 
 func main() {
 	fmt.Println("hello world")
+	fmt.Println("a have added a simple task")
 }
