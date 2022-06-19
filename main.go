@@ -9,5 +9,6 @@ func main() {
 	fmt.Println("a have added a simple task")
 
 	fmt.Println("a resolved a simple task from github")
+	fmt.Println("resolved task from gitlab")
 
 }
